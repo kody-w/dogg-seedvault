@@ -55,3 +55,19 @@ outlook, same clock — announce it on the spine's registry
 <!--trust-->
 No ratings yet — used this chain? [Rate it](../../issues/new?template=rate.yml): valid ratings publish automatically as verifiable frames.
 <!--/trust-->
+
+## Summon this node
+
+A MISSION chant — 14 words — carries the `seedvault:@kody-w/dogg-seedvault` dimension's identity, its tick, a hash prefix that pins the exact frame, and a quantized snapshot of tick, varieties, days_to_next_sow.
+
+```
+KNELL CAST MAGE FORGE FORGE STAIR FONT ANVIL SKEWER THEME HEX JAW DISMISS GEM
+```
+
+`dogg:1:14:BIALIYAAAeOMwB2mtWTY-gGf`
+
+Tap to decode: [https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALIYAAAeOMwB2mtWTY-gGf](https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALIYAAAeOMwB2mtWTY-gGf)
+
+This chant carries three things: which dimension it names (`seedvault:@kody-w/dogg-seedvault`), which tick and frame it was cut from (tick 1, hash prefix `38e33`), and the field values above, quantized (log-quantized, ~0.3% relative (1e-6 … 1e15)) — enough to recognize the node and sanity-check a claim about it without touching the network.
+
+This is a snapshot of one tick (tick 1) — the numbers move as the stream advances, so re-mint with `python3 tools/dogg.py mission seedvault:@kody-w/dogg-seedvault` for the latest.

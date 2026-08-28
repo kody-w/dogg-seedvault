@@ -1,0 +1,150 @@
+{
+  "spec": "rapp/1",
+  "kind": "seedvault.snapshot",
+  "stream_id": "seedvault:@kody-w/dogg-seedvault",
+  "seq": 0,
+  "utc": "2026-08-28T17:49:43.608Z",
+  "payload": {
+    "tick": 465,
+    "tick_frame": "cb1bb7f89de1efbfced38889c067e30e3d74817f71173ab51ca7f9c32f877e93",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-28T17:49:43.608Z",
+    "seedvault": {
+      "vault": {
+        "zone": "8a (Atlanta)",
+        "varieties": [
+          {
+            "name": "tomato Cherokee Purple",
+            "days_to_maturity": 80,
+            "sow_window": [
+              4,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "bean Kentucky Wonder",
+            "days_to_maturity": 65,
+            "sow_window": [
+              4,
+              7
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "squash Yellow Crookneck",
+            "days_to_maturity": 55,
+            "sow_window": [
+              4,
+              7
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "okra Clemson Spineless",
+            "days_to_maturity": 60,
+            "sow_window": [
+              5,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "collards Georgia Southern",
+            "days_to_maturity": 75,
+            "sow_window": [
+              8,
+              9
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "corn Hickory King",
+            "days_to_maturity": 100,
+            "sow_window": [
+              4,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "pepper Pimento L",
+            "days_to_maturity": 75,
+            "sow_window": [
+              4,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "cucumber Boston Pickling",
+            "days_to_maturity": 55,
+            "sow_window": [
+              4,
+              7
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "melon Moon and Stars",
+            "days_to_maturity": 90,
+            "sow_window": [
+              4,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "sweet potato Georgia Jet",
+            "days_to_maturity": 90,
+            "sow_window": [
+              5,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "pea Green Arrow",
+            "days_to_maturity": 60,
+            "sow_window": [
+              2,
+              3
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "lettuce Black Seeded Simmons",
+            "days_to_maturity": 45,
+            "sow_window": [
+              2,
+              4
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          }
+        ]
+      },
+      "varieties": 12,
+      "days_to_next_sow": 157,
+      "frost_free_days": 240
+    },
+    "sources_failed": [],
+    "about": "A federated node of the global tick network: this repo's own seedvault outlook, one frame per observed tick, keyed to the spine's tick anchors so it joins every other node's data on the same clock. This node carries a heirloom seed vault (12 varieties, zone 8a) so a growing calendar survives even when nothing but this repo does."
+  },
+  "payload_hash": "e4ef43503fdb33c29079b698e29eabd9b0b383a6b57620c565c29e9d4226bb4a",
+  "prev": null,
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5d6e08999c4e33aa86034de38f684a85c49b0ea9a8699f024d7c8db0b4acb36f"
+}

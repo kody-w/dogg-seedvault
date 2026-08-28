@@ -1,0 +1,13 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/dogg-seedvault:45a6cce370a50e2f19e1b89fae55a45022d50e54d7b1a9b2579a7aaa62e0252b",
+  "kind": "node",
+  "name": "dogg-seedvault",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "dogg-seedvault",
+  "github": "https://github.com/kody-w/dogg-seedvault",
+  "parent_rappid": "rappid:@kody-w/dogg:398899d4c850bc28fabe33115c52436def0d485c34753e9bbef06e4c283892b4",
+  "minted_at": "2026-08-28T17:49:22Z",
+  "notes": "Federated node of the global tick network; descends from the spine thread. Minted once per RAPP spec §6.2 — uuid-entropy tail, never a name-hash."
+}

@@ -1,0 +1,31 @@
+{
+ "schema": "dogg/0-mission",
+ "dimension": "seedvault:@kody-w/dogg-seedvault",
+ "fields": [
+  {
+   "name": "tick",
+   "path": "payload.tick",
+   "unit": "spine tick index"
+  },
+  {
+   "name": "varieties",
+   "path": "payload.seedvault.varieties",
+   "unit": "count"
+  },
+  {
+   "name": "days_to_next_sow",
+   "path": "payload.seedvault.days_to_next_sow",
+   "unit": "days"
+  },
+  {
+   "name": "frost_free_days",
+   "path": "payload.seedvault.frost_free_days",
+   "unit": "days"
+  }
+ ],
+ "default": [
+  "tick",
+  "varieties",
+  "days_to_next_sow"
+ ]
+}

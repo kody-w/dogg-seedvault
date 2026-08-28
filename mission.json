@@ -4,22 +4,22 @@
  "fields": [
   {
    "name": "tick",
-   "path": "payload.tick",
+   "path": "tick",
    "unit": "spine tick index"
   },
   {
    "name": "varieties",
-   "path": "payload.seedvault.varieties",
+   "path": "seedvault.varieties",
    "unit": "count"
   },
   {
    "name": "days_to_next_sow",
-   "path": "payload.seedvault.days_to_next_sow",
+   "path": "seedvault.days_to_next_sow",
    "unit": "days"
   },
   {
    "name": "frost_free_days",
-   "path": "payload.seedvault.frost_free_days",
+   "path": "seedvault.frost_free_days",
    "unit": "days"
   }
  ],

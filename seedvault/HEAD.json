@@ -1,8 +1,8 @@
 {
-  "count": 13,
+  "count": 14,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "seedvault:@kody-w/dogg-seedvault",
-  "head_frame": "5f817bbe6d66a598e902677385a1378fe84db9874e4b2a0e9e60c97016498e6b",
-  "updated": "2026-09-07T12:44:24.859Z"
+  "head_frame": "f255744e68c62b1357414290f650e0cd84164ac2833e1f6574b0fc294c3ab0f4",
+  "updated": "2026-09-08T11:27:03.684Z"
 }

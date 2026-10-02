@@ -1,0 +1,149 @@
+{
+  "spec": "rapp/1",
+  "kind": "seedvault.snapshot",
+  "stream_id": "seedvault:@kody-w/dogg-seedvault",
+  "seq": 37,
+  "utc": "2026-10-02T12:48:07.593Z",
+  "payload": {
+    "tick": 2112,
+    "tick_frame": "99824640ca083cead95e896a44b22146d1ebb641f4d372813817a63ac920aba2",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-02T12:48:07.593Z",
+    "seedvault": {
+      "vault": {
+        "zone": "8a (Atlanta)",
+        "varieties": [
+          {
+            "name": "tomato Cherokee Purple",
+            "days_to_maturity": 80,
+            "sow_window": [
+              4,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "bean Kentucky Wonder",
+            "days_to_maturity": 65,
+            "sow_window": [
+              4,
+              7
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "squash Yellow Crookneck",
+            "days_to_maturity": 55,
+            "sow_window": [
+              4,
+              7
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "okra Clemson Spineless",
+            "days_to_maturity": 60,
+            "sow_window": [
+              5,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "collards Georgia Southern",
+            "days_to_maturity": 75,
+            "sow_window": [
+              8,
+              9
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "corn Hickory King",
+            "days_to_maturity": 100,
+            "sow_window": [
+              4,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "pepper Pimento L",
+            "days_to_maturity": 75,
+            "sow_window": [
+              4,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "cucumber Boston Pickling",
+            "days_to_maturity": 55,
+            "sow_window": [
+              4,
+              7
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "melon Moon and Stars",
+            "days_to_maturity": 90,
+            "sow_window": [
+              4,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "sweet potato Georgia Jet",
+            "days_to_maturity": 90,
+            "sow_window": [
+              5,
+              6
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "pea Green Arrow",
+            "days_to_maturity": 60,
+            "sow_window": [
+              2,
+              3
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          },
+          {
+            "name": "lettuce Black Seeded Simmons",
+            "days_to_maturity": 45,
+            "sow_window": [
+              2,
+              4
+            ],
+            "last_frost_month": 3,
+            "first_frost_month": 11
+          }
+        ]
+      },
+      "varieties": 12,
+      "days_to_next_sow": 122,
+      "frost_free_days": 240
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "75c3e92d47cf0f4f41240daf3dc06546cc9cb8aaae46b27ba06c24086063ccc1",
+  "prev": "be7ec1a182193aab2f09447ba42bbf65fa662414b7108ff8c7185946e724a01f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ecc9ebce2ec96a147b528014529663281fd2a362a035ba0cd54bd117eda75f78"
+}
